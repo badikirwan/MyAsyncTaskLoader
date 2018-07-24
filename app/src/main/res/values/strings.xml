@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My AsyncTask Loader</string>
+    <string name="masukkan_nama_kota">masukkan nama kota</string>
+    <string name="cari">Cari</string>
+    <string name="nama_kota">Jakarta</string>
+    <string name="temprature">Temprature</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="id_jakarta_bandung_semararang">1642911,1650357,1627896</string>
+</resources>
